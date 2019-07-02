@@ -14,7 +14,7 @@ Install JDK 8.
 
 ### Maven
 
-We use Maven as the project's build tool. Install version 3.5.0 or later.
+Download Maven version 3.5.0 or higher from https://maven.apache.org/download.cgi.
 
 ## Build and Run the Application
 
